@@ -6,7 +6,7 @@
 
 ### Installing
 
-We offer binary images of the latest releases here: http://latest.wcode-project.org
+We offer binary images of the latest releases here: https://latest.wcode-project.org
 
 If you would like to compile yourself, read on.
 
